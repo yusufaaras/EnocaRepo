@@ -1,0 +1,17 @@
+C:\EncodeDataAccessLayer\bin\Debug\net6.0\EnocaDataAccessLayer.deps.json
+C:\EncodeDataAccessLayer\bin\Debug\net6.0\EnocaDataAccessLayer.runtimeconfig.json
+C:\EncodeDataAccessLayer\bin\Debug\net6.0\EnocaDataAccessLayer.dll
+C:\EncodeDataAccessLayer\bin\Debug\net6.0\EnocaDataAccessLayer.pdb
+C:\EncodeDataAccessLayer\bin\Debug\net6.0\EnocaEntityLayer.dll
+C:\EncodeDataAccessLayer\bin\Debug\net6.0\EnocaEntityLayer.pdb
+C:\EncodeDataAccessLayer\obj\Debug\net6.0\EnocaDataAccessLayer.csproj.AssemblyReference.cache
+C:\EncodeDataAccessLayer\obj\Debug\net6.0\EnocaDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\EncodeDataAccessLayer\obj\Debug\net6.0\EnocaDataAccessLayer.AssemblyInfoInputs.cache
+C:\EncodeDataAccessLayer\obj\Debug\net6.0\EnocaDataAccessLayer.AssemblyInfo.cs
+C:\EncodeDataAccessLayer\obj\Debug\net6.0\EnocaDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\EncodeDataAccessLayer\obj\Debug\net6.0\EnocaDataAccessLayer.csproj.CopyComplete
+C:\EncodeDataAccessLayer\obj\Debug\net6.0\EnocaDataAccessLayer.dll
+C:\EncodeDataAccessLayer\obj\Debug\net6.0\refint\EnocaDataAccessLayer.dll
+C:\EncodeDataAccessLayer\obj\Debug\net6.0\EnocaDataAccessLayer.pdb
+C:\EncodeDataAccessLayer\obj\Debug\net6.0\EnocaDataAccessLayer.genruntimeconfig.cache
+C:\EncodeDataAccessLayer\obj\Debug\net6.0\ref\EnocaDataAccessLayer.dll

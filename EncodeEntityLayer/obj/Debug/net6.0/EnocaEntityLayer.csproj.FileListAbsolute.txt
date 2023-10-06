@@ -1,0 +1,14 @@
+C:\EncodeEntityLayer\bin\Debug\net6.0\EnocaEntityLayer.deps.json
+C:\EncodeEntityLayer\bin\Debug\net6.0\EnocaEntityLayer.runtimeconfig.json
+C:\EncodeEntityLayer\bin\Debug\net6.0\EnocaEntityLayer.dll
+C:\EncodeEntityLayer\bin\Debug\net6.0\EnocaEntityLayer.pdb
+C:\EncodeEntityLayer\obj\Debug\net6.0\EnocaEntityLayer.csproj.AssemblyReference.cache
+C:\EncodeEntityLayer\obj\Debug\net6.0\EnocaEntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\EncodeEntityLayer\obj\Debug\net6.0\EnocaEntityLayer.AssemblyInfoInputs.cache
+C:\EncodeEntityLayer\obj\Debug\net6.0\EnocaEntityLayer.AssemblyInfo.cs
+C:\EncodeEntityLayer\obj\Debug\net6.0\EnocaEntityLayer.csproj.CoreCompileInputs.cache
+C:\EncodeEntityLayer\obj\Debug\net6.0\EnocaEntityLayer.dll
+C:\EncodeEntityLayer\obj\Debug\net6.0\refint\EnocaEntityLayer.dll
+C:\EncodeEntityLayer\obj\Debug\net6.0\EnocaEntityLayer.pdb
+C:\EncodeEntityLayer\obj\Debug\net6.0\EnocaEntityLayer.genruntimeconfig.cache
+C:\EncodeEntityLayer\obj\Debug\net6.0\ref\EnocaEntityLayer.dll
